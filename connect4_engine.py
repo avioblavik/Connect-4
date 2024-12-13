@@ -4,6 +4,8 @@ import random
 import sys
 import math
 
+#ga,e
+
 # Constants
 ROWS = 6
 COLS = 7
